@@ -27,7 +27,8 @@ install:
     - npm install
     
 script: 
-    -grunt
+    - grunt
+    
 
 branches:
   only:
